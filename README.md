@@ -3,7 +3,7 @@
 ## Usage
 ```
 >>> # Basic
->>> A = spMatrix(2) # the dimention is 2
+>>> A = spMatrix(2) # the dimension is 2
 >>> A
 {}
 >>> A[1,2],A[-10,2]
